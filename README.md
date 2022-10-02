@@ -1,7 +1,7 @@
 # Developer Jenna 🐶☕️
 
 
-함께 일할 때 마음이 편한 개발자가 되고 싶습니다.
+I want to be a calm developer who feels comfortable when working with me.
 <div>
 
 <br>
