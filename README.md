@@ -1,7 +1,7 @@
 # Developer Jenna 🐶☕️
 
 
-I want to be a calm developer who feels comfortable when working with me.
+I want to be a reliable developer who feels comfortable when working with me.
 <div>
 
 <br>
