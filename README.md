@@ -1,21 +1,40 @@
-# Developer Jenna 🐶☕️
+<div align="center">
+  <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Developer%20Jun%20Eun%20Hee&fontColor=000000&fontSize=70&fontAlignY=40)
+</div>
 
+# 사람들이 원하는 가치를 전달해주고 싶은 개발자 전은희 입니다 ⭐   
 
-I want to be a reliable developer who feels comfortable when working with me.
 <div>
 
 <br>
 
-## About me 🍫
+### About me 🍫
 
 <br>
 
-[![Tech Blog](https://img.shields.io/badge/Blog-83B81A?style=flat-square&logo=blogger&logoColor=white)](https://winteringg.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennajuneh@gmail.com)](mailto:jennajuneh@gmail.com)
+[![Tech Blog](https://img.shields.io/badge/Blog-83B81A?style=flat&logo=blogger&logoColor=white)](https://winteringg.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jennajuneh@gmail.com)](mailto:jennajuneh@gmail.com)
+<br>
+
+<br>
+  
+### Tech Stack 🛠️
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat&logo=SpringBoot&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/JUnit5-25a162?style=flat&logo=JUnit5&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-c21325?style=flat&logo=Jest&logoColor=white" />
+  
 <br>
 
 <br>
 
-## today 🍭
+### today 🍭
 
 <br>
 
@@ -41,3 +60,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
